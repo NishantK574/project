@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/68a7e7ba-0a98-429b-af11-bf42c768f2f2)# StudentFees Smart Contract
+# StudentFees Smart Contract
 
 ## Vision
 
