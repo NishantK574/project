@@ -1,4 +1,4 @@
-# StudentFees Smart Contract
+![image](https://github.com/user-attachments/assets/68a7e7ba-0a98-429b-af11-bf42c768f2f2)# StudentFees Smart Contract
 
 ## Vision
 
@@ -30,6 +30,6 @@ For further details or assistance, feel free to reach out:
 
 Thank you for your interest in the **StudentFees** project!
 
-##Deployment:
-
-Contact address: 0xbe7a963e3e75c9c3b36143a517964ba16a08604985f3f6492b23c6b711f91d48
+##Deployment
+0xf0adf9884d720527303cee0d775bb8d9d00794ff86e59a02e539d716ed0f9d7e
+![Screenshot 2024-08-28 094435](https://github.com/user-attachments/assets/1054a29d-1662-494e-b109-bc2f9d73cba9)
