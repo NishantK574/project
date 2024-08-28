@@ -10,16 +10,6 @@ The following flow chart illustrates the basic operations of the **StudentFees**
 
 +-------------------+ +-------------------+ +-------------------+ | | | | | | | Student Pays | | Contract | | Blockchain | | Fees | | Storage | | Network | | (payFees()) | | | | | | | | | | | +-------------------+ +-------------------+ +-------------------+ | | | | | | v v | +-------------------+ +-------------------+ | | Transaction | | Update Student | | | Sent | | Record | | | (Ether) | | - Increase | | | | | Balance | | +-------------------+ | - Set HasPaid | | | | - Emit FeePaid | | v +-------------------+ | +-------------------+ | | Payment Status | | | & Balance | | | Queries | | | (getPaymentStatus| | | getStudentBalance| | +-------------------+ |
 
-markdown
-Copy code
-
-## Contact Address
-
-For inquiries, support, or contributions regarding this smart contract, please use the following contact information:
-
-- **Contact Person:** [Your Name]
-- **Email Address:** [your.email@example.com]
-- **Project Repository:** [GitHub Repository URL]
 
 ## Future Scope
 
@@ -42,4 +32,4 @@ Thank you for your interest in the **StudentFees** project!
 
 ##Deployment:
 
-Contact address:
+Contact address: 0xbe7a963e3e75c9c3b36143a517964ba16a08604985f3f6492b23c6b711f91d48
